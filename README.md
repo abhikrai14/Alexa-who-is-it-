@@ -1,5 +1,5 @@
 # Alexa-who-is-it-?
-IoT Project
+IoT Project on
 Face Recognition Mechanism integrated with Alexa.
 
 Implemented using Raspberry Pi Camera module
